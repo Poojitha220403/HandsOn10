@@ -80,7 +80,6 @@ cf30c1b1-d090-42bd-82e5-6ff59a12bab5 | 72 | 39.93 | 134.18 | 88.33 | 45.85
 ef861f11-0729-41fe-9bb3-400f890ae604 | 53 | 21.96 | 107.17 | 92.75 | 14.41
 28758d09-c137-47a5-8a3a-cf948ccdb511 | 93 | 18.03 | 81.19  | 93.71 | 12.52
 ```
-Screenshot will be in screenshots folder.
 
 Task 5 – Time-Based Fare Trend Prediction
 Goal : Predict average fare trends in real time using 5-minute window aggregations and time-based features (hour_of_day, minute_of_hour).
@@ -110,7 +109,7 @@ window_start          | window_end            | avg_fare | predicted_next_avg_fa
 2025-10-21 21:29:00   | 2025-10-21 21:34:00   | 76.05    | 92.39
 2025-10-21 21:30:00   | 2025-10-21 21:35:00   | 79.12    | 90.81
 ```
-Screenshot will be in screenshots folder.
+
 
 Key Concepts Used
 | Concept                    |	Description                                                             |
